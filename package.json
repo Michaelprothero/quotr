@@ -1,0 +1,29 @@
+{
+  "name": "quotr",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "accounting": "^0.4.1",
+    "currency": "^3.0.0",
+    "react": "^15.6.1",
+    "react-currency-input": "^1.2.5",
+    "react-dom": "^15.6.1",
+    "react-icons": "^2.2.5",
+    "react-modal": "^2.2.1",
+    "react-redux": "^5.0.5",
+    "redux": "^3.7.1",
+    "redux-actions": "^2.2.1",
+    "reselect": "^3.0.1",
+    "simple-react-router": "0.0.13",
+    "styled-components": "^2.1.1"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.10"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
